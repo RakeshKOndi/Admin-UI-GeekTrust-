@@ -1,5 +1,8 @@
 In this assignment let's build a **Admin-UI** given by geekTrust.
 
+FINAL LINk:--
+https://Adminkr.ccbp.tech
+
 GUIDELINES:--
 
 These are the requirements:
